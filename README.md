@@ -1,6 +1,6 @@
 # RIVET: Related Info Viewer... with Extra Things!
 
-![](https://github.com/shahedc/Rivet/blob/master/images/Related-Info-Viewer.png)
+![](images/Related-Info-Viewer.png)
 
 **Scenarios**
 
